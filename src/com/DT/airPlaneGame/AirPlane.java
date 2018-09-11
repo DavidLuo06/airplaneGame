@@ -4,6 +4,7 @@ import java.util.Random;
 
 public class AirPlane extends FlyingObject implements Enemy {
 	private int speed = 2;
+	private int i;
 	
 
 	public AirPlane(){
